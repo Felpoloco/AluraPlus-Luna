@@ -1,4 +1,5 @@
 :root {
+    /*Kauã Luna Braga 3D 29/09/2024*/
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -43,7 +44,7 @@ body {
     text-decoration: none;
     margin-bottom: 1em;
 }
-
+/*Kauã Luna Braga 3D 29/09/2024*/
 .botao_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
@@ -86,7 +87,7 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
-
+/*Kauã Luna Braga 3D 29/09/2024*/
 .secundario__botao {
     display: inline-block;
     margin-top: 1em;
@@ -148,7 +149,7 @@ body {
 .lista__link a:active {
     color: purple;
 }
-
+/*Kauã Luna Braga 3D 29/09/2024*/
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
